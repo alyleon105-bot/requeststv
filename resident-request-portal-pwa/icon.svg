@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Resident request portal icon">
+  <rect width="512" height="512" rx="96" fill="#12343B"/>
+  <path fill="#F7F9F8" d="M112 162c0-22 18-40 40-40h208c22 0 40 18 40 40v128c0 22-18 40-40 40h-99l-79 61c-13 10-32 1-32-16v-45h-1c-21-1-37-19-37-40V162Z"/>
+  <path fill="#E56B4E" d="M168 190h176v28H168zM168 242h136v28H168z"/>
+</svg>
